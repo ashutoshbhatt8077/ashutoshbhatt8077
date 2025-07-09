@@ -6,33 +6,48 @@
 ---
 
 ## 🏗️ What I'm working on
-- 🚀 Preparing for ICPC and various hackathons like Flipkart Grid, Adobe Hackathon.
-- 💻 Solving Striver DSA Sheet (completed ~350 Qs till graphs, continuing).
-- 🌱 Learning frontend & backend to build full-stack projects.
+- 🚀 Preparing for ICPC and hackathons like Flipkart Grid, Adobe Hackathon.
+- 💻 Solving Striver DSA Sheet (~350 questions completed, aiming for full completion).
+- 🌱 Learning full stack development starting with HTML, CSS, JS and moving towards backend.
 
 ---
 
-## 📈 My Goals
-- 🏆 Become an expert on Codeforces, achieve high ratings in competitive programming.
-- 🔥 Build strong projects in HTML, CSS, JavaScript, and push into MERN stack.
-- 🎯 Contribute to Google Summer of Code (GSoC) & major open source orgs.
-- 💼 Land top tech internships by 2026.
+## 🎯 My Goals
+- 🏆 Become a Codeforces Expert and perform well in contests.
+- 🔥 Build strong portfolio projects in MERN stack & system design.
+- 🚀 Contribute to GSoC & open source.
+- 💼 Secure top tech internships (Flipkart Grid, Adobe Hackathon, D.E. Shaw, GSoC).
 
 ---
 
 ## 🧑‍💻 Skills
-- **Languages:** C++, Java (basic)
-- **DSA:** Competitive programming (Codeforces, CodeChef, LeetCode)
-- **Web:** HTML, CSS, basics of JavaScript (expanding)
-- **Tools:** Git & GitHub
+- **Programming:** C++, Java (basic)
+- **DSA:** Advanced problem solving, Competitive Programming (Codeforces, CodeChef, LeetCode)
+- **Web Development:** HTML, CSS (JavaScript and backend learning in progress)
+- **Tools:** Git & GitHub, VS Code
+- **Soft Skills:** Clear communication, consistency, eagerness to learn.
 
 ---
 
-## 🚀 Connect with me
-- 📫 Email: ashutoshbhattnova@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-bhatt-b3874227b)
-- ⚡ [Codeforces](https://codeforces.com/profile/ashutoshbhatt) | [LeetCode](https://leetcode.com/Ashutosh-Bhatt) | [CodeChef](https://www.codechef.com/users/aloft_brace_71)
+## 📈 Competitive Programming Profiles
+- ⚡ [Codeforces](https://codeforces.com/profile/ashutoshbhatt) — Pupil (aiming for Expert)
+- 🟠 [LeetCode](https://leetcode.com/Ashutosh-Bhatt) — solving problems regularly
+- 🍽️ [CodeChef](https://www.codechef.com/users/aloft_brace_71)
 
 ---
 
-⭐ Thanks for visiting my profile! Always excited to learn, collaborate, and build amazing things.
+## 🎓 Education
+🎓 **B.Tech in Computer Science & Engineering**  
+National Institute of Technology, Uttarakhand (2023-2027)  
+- Current CGPA: 8.3
+
+---
+
+## 💼 Connect with me
+- 📧 Email: ashutoshbhattnova@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-bhatt-b3874227b)
+- 💻 [GitHub](https://github.com/ashutoshbhatt8077)
+
+---
+
+⭐ Thanks for visiting my profile! Always excited to connect, collaborate, and build amazing things together.
