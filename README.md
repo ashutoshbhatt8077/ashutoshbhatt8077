@@ -32,7 +32,7 @@
 ## 🌐 Live Projects
 
 - 🔥 [Profile Card Generator](https://profile-card-generator.tiiny.site) — A colorful animated profile card builder with conic gradients and interactive design.
-- 📝 [Survey Form Project](https://your-survey-form-link.com) — A clean, responsive survey form built with HTML & CSS. *(Replace this link with the real one)*
+- 📝 [Survey Form Project](https://ashutoshbhatt8077.github.io/Survey-form/) — A clean, responsive survey form built with HTML & CSS. *(Replace this link with the real one)*
 
 ---
 
