@@ -8,7 +8,7 @@
 ## 🏗️ What I'm working on
 - 🚀 Preparing for ICPC and hackathons like Flipkart Grid, Adobe Hackathon.
 - 💻 Solving Striver DSA Sheet (~350 questions completed, aiming for full completion).
-- 🌱 Learning full stack development starting with HTML, CSS, JS and moving towards backend.
+- 🌐 Completed HTML, CSS, and JavaScript; now diving into backend and full-stack development.
 
 ---
 
@@ -23,9 +23,16 @@
 ## 🧑‍💻 Skills
 - **Programming:** C++, Java (basic)
 - **DSA:** Advanced problem solving, Competitive Programming (Codeforces, CodeChef, LeetCode)
-- **Web Development:** HTML, CSS (JavaScript and backend learning in progress)
+- **Web Development:** HTML, CSS, JavaScript (backend learning in progress)
 - **Tools:** Git & GitHub, VS Code
 - **Soft Skills:** Clear communication, consistency, eagerness to learn.
+
+---
+
+## 🌐 Live Projects
+
+- 🔥 [Profile Card Generator](https://profile-card-generator.tiiny.site) — A colorful animated profile card builder with conic gradients and interactive design.
+- 📝 [Survey Form Project](https://your-survey-form-link.com) — A clean, responsive survey form built with HTML & CSS. *(Replace this link with the real one)*
 
 ---
 
@@ -38,7 +45,7 @@
 
 ## 🎓 Education
 🎓 **B.Tech in Computer Science & Engineering**  
-National Institute of Technology, Uttarakhand (2023-2027)  
+National Institute of Technology, Uttarakhand (2023–2027)  
 - Current CGPA: 8.3
 
 ---
