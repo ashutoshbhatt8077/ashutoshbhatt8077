@@ -31,7 +31,7 @@
 ## 🌐 Live Projects
 
 - 🔥 [Profile Card Generator](https://profile-card-generator.tiiny.site) — A colorful animated profile card builder with conic gradients and interactive design.
-- 📝 [Survey Form Project](https://ashutoshbhatt8077.github.io/Survey-form/) — A clean, responsive survey form built with HTML & CSS.
+- 📝 [Survey Form Project](https://surveyform-five.vercel.app/) — A clean, responsive survey form built with HTML & CSS.
 - 📊 [DSA Visualizer](https://ds-avisulaiser.vercel.app/) — An interactive Data Structures & Algorithms visualizer with game-like animations and a sleek black-and-white linear gradient theme.
 
 
